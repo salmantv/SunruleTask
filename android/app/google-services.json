@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "926386005255",
+    "project_id": "sunruleassiginment",
+    "storage_bucket": "sunruleassiginment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926386005255:android:3c994873c0084635d851a2",
+        "android_client_info": {
+          "package_name": "com.sun.sunruleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926386005255-hbkkjd0j8gho7m8mu02hsne7i6dhb1or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sun.sunruleapp",
+            "certificate_hash": "fb7519bb101749d30a13720253db28d3d6a1a4ed"
+          }
+        },
+        {
+          "client_id": "926386005255-gjnqo7msob27fbmm9qtov3qgn5i6g92e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzM_n-RHj9NqV1LFOORANIN7oCniLN8Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926386005255-gjnqo7msob27fbmm9qtov3qgn5i6g92e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
